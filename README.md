@@ -1,4 +1,4 @@
-## Hi! My name is Gabriel and I'm a web development student
+## Hi! My name is Gabriel and I'm a software development student
 <div align="center">
   <a href="https://github.com/gabrielLoboo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielLoboo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
