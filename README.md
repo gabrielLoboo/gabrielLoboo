@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br><br>
 
 ### • What i'm learning today
-  ![React](https://img.shields.io/badge/React-fff?logo=react&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-fff?logo=angular&logoColor=black)
   ![ReactNative](https://img.shields.io/badge/ReactNative-fff?logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-fff?logo=nextdotjs&logoColor=black)
   ![Tailwind](https://img.shields.io/badge/Tailwind-fff?logo=tailwindcss&logoColor=black)
